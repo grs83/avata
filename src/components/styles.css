@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100vw;
+    height: 70px;
+    background-image: linear-gradient(to right, rgb(14, 108, 151) , rgb(32, 148, 250));
+}

@@ -1,0 +1,36 @@
+.books-wrapper {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 25px;
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.books-container {
+    padding: 1%;
+}
+
+.content-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rating-container {
+    width: 40px;
+    height: 30px;
+    color: #f4f4f4;
+    background-image: linear-gradient(to bottom right, rgb(14, 108, 151), rgb(32, 148, 250));
+    border-radius: 5px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rating {
+    margin-top: 4px;
+}

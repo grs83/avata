@@ -1,0 +1,10 @@
+.metadata-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.book-count {
+    font-size: 2rem;
+    color: rgb(32, 148, 250);
+}

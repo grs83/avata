@@ -1,0 +1,13 @@
+.graph-container {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    float: right;
+}
+
+.graph-bar {
+    width: calc(80% / 5);
+    background-image: linear-gradient(to bottom right, rgb(14, 108, 151), rgb(32, 148, 250));
+}
